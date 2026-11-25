@@ -96,3 +96,10 @@ cn-sentiment-analyzer/
 ├── eval_output.txt      # python main.py --eval 的真实原始输出（留档）
 └── README.md
 ```
+
+---
+
+## 联系方式
+
+- GitHub：[github.com/18285613216](https://github.com/18285613216)
+- 本项目为个人练习项目，代码、数据与评测脚本均在仓库内，欢迎提 Issue 交流。
